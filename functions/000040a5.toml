@@ -2,3 +2,8 @@
 addr = 16549
 size = 7
 last_change = 1663395417
+
+[header]
+last_change = 1663395417
+name = "extern_caller_2"
+addr = 16549
