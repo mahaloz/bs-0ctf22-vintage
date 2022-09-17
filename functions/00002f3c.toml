@@ -1,4 +1,9 @@
 [metadata]
 addr = 12092
 size = 824
-last_change = 1663391227
+last_change = 1663391228
+
+[header]
+last_change = 1663391228
+name = "start_game"
+addr = 12092
