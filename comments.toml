@@ -1,3 +1,10 @@
+[1a63]
+last_change = 1663395162
+addr = 6755
+func_addr = 6755
+comment = "this likely mangles the flag first and then stores it \nin memory here... but it is unclear.\n\nThe correct password is BLACKKEY"
+decompiled = false
+
 [1bef]
 last_change = 1663395093
 addr = 7151
