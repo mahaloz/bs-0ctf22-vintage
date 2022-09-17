@@ -2,3 +2,8 @@
 addr = 16517
 size = 15
 last_change = 1663395376
+
+[header]
+last_change = 1663395376
+name = "mangler_1"
+addr = 16517
