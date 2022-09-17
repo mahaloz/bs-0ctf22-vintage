@@ -1,3 +1,10 @@
+[1bef]
+last_change = 1663395093
+addr = 7151
+func_addr = 6755
+comment = "start the check byte-by-byte. The value loaded into\n`b` is the correct flag byte after its been mangled"
+decompiled = false
+
 [1c41]
 last_change = 1663395050
 addr = 7233
