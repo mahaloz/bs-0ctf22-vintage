@@ -1,0 +1,6 @@
+[1c41]
+last_change = 1663395050
+addr = 7233
+func_addr = 6755
+comment = "\nthis is the valid check return\nwhich returns from here"
+decompiled = false
